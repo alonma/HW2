@@ -1,6 +1,7 @@
 # Meachine Leraning with R - Titanic database
+
    Alon Maharshak 302955851  
-   Miriam Hazanov 204500763 
+   Miriam Hazanov 204500763  
    Kaggle UserName: Miri92 
 
 
@@ -25,6 +26,8 @@ Our first try was with RPart, we used a training set with size of 95% and use on
 
 Our grade with these try was 0.79904
 ![Image of LeaderBoard](https://github.com/alonma/HW2/blob/master/RPart-Grade.jpg)
+![First results](https://github.com/alonma/HW2/blob/master/try-Rpart.csv)
+
 
 ## Second Try - Random Forest
 
@@ -33,6 +36,7 @@ Our seconed try was with Random Forest, we used a training set of 75% and we use
 
 Our grade was 0.78469
 ![Image of LeaderBoard](https://github.com/alonma/HW2/blob/master/RF-Grade.jpg)
+![Second results](https://github.com/alonma/HW2/blob/master/try-RF.csv)
 
 
 ## Third Try - Ensamble Caret
@@ -43,4 +47,5 @@ Our third try was a combanation of Generalized linear model with a Caret ensambl
 
 Our grade was 0.765
 ![Image of LeaderBoard](https://github.com/alonma/HW2/blob/master/Caret-Grade.jpg)
+![Third results](https://github.com/alonma/HW2/blob/master/try-Caret.csv)
 
